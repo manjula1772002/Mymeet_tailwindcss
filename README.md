@@ -3,7 +3,9 @@
 This project is a built meet website using tailwindcss.
 ---
 # Screenshot 
-<img width="1944" height="1330" alt="tailwindcss" src="https://github.com/user-attachments/assets/3cbde3a8-c811-4c89-8bc9-3fa87c203065" />
+<img width="1920" height="1165" alt="screen shot" src="https://github.com/user-attachments/assets/2396dc5a-5750-4ae6-bf25-7d9aa3371ea8" />
+
+
 
 ---
 # live Demo
