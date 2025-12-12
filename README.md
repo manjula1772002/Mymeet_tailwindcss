@@ -14,7 +14,6 @@ This project is a built meet website using tailwindcss.
 
 # Features
 - Beautiful clean UI
-- Fast & mobile responsive
 ---
 # Author
 ## Manjula
