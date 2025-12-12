@@ -8,8 +8,7 @@ This project is a built meet website using tailwindcss.
 
 
 ---
-# live Demo
-(https://mymeet-tailwindcss.netlify.app/)
+# live Demo(https://mymeet-tailwindcss.netlify.app/)
 ---
 
 # Features
